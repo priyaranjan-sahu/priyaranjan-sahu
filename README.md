@@ -106,14 +106,11 @@ I'm **Priya Ranjan Sahu** — a cloud engineer who designs, automates, hardens, 
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyaranjan-sahu&show_icons=true&theme=algolia&hide_border=true&include_all_commits=true&rank_icon=github" height="175" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyaranjan-sahu&layout=compact&theme=algolia&hide_border=true&langs_count=8" height="175" alt="Top Languages" />
-  <br />
-  <img src="https://streak-stats.demolab.com/?user=priyaranjan-sahu&theme=algolia&hide_border=true" height="175" alt="GitHub Streak" />
+  <img src="/github-metrics.svg" alt="GitHub Metrics" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=priyaranjan-sahu&theme=algolia&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://streak-stats.demolab.com/?user=priyaranjan-sahu&theme=algolia&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
