@@ -53,6 +53,24 @@ $ echo $MOTTO
 "One cloud is a choice. Three clouds is a strategy."
 ```
 
+<p align="center">
+  <a href="https://github.com/priyaranjan-sahu/multi-cloud-automation-scripts">
+    <img alt="Stars" src="https://img.shields.io/github/stars/priyaranjan-sahu/multi-cloud-automation-scripts?style=flat&logo=github&color=0e75b6" />
+  </a>
+  <a href="https://github.com/priyaranjan-sahu/multi-cloud-automation-scripts">
+    <img alt="Forks" src="https://img.shields.io/github/forks/priyaranjan-sahu/multi-cloud-automation-scripts?style=flat&logo=github&color=0e75b6" />
+  </a>
+  <a href="https://github.com/priyaranjan-sahu/multi-cloud-automation-scripts/issues">
+    <img alt="Issues" src="https://img.shields.io/github/issues/priyaranjan-sahu/multi-cloud-automation-scripts?style=flat&logo=github&color=0e75b6" />
+  </a>
+  <a href="https://github.com/priyaranjan-sahu/multi-cloud-automation-scripts">
+    <img alt="License" src="https://img.shields.io/github/license/priyaranjan-sahu/multi-cloud-automation-scripts?style=flat&color=0e75b6" />
+  </a>
+  <img alt="Contributions Welcome" src="https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=flat&logo=github&color=0e75b6" />
+  <img alt="Made with CI" src="https://img.shields.io/badge/Made%20with-CI-2088FF?style=flat&logo=githubactions" />
+  <img alt="Multi-Cloud" src="https://img.shields.io/badge/Multi--Cloud-AWS%7CAzure%7CGCP-4285F4?style=flat&logo=cloudflare" />
+</p>
+
 I'm **Priya Ranjan Sahu** — a cloud engineer who designs, automates, hardens, and optimizes infrastructure across **AWS, Microsoft Azure, and Google Cloud**. I build production-grade automation that makes cloud environments *safer, cheaper, and self-operating*.
 
 - 🛡️ **Security-first by default** — I write read-only audit tooling and hardening playbooks aligned with the AWS Well-Architected, Azure Security Benchmark, and GCP security best practices.
