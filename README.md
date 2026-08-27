@@ -23,6 +23,10 @@
   <img alt="Azure" src="https://img.shields.io/badge/Azure-Microsoft-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   <img alt="GCP" src="https://img.shields.io/badge/GCP-Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
   <br />
+  <img alt="GCP Cloud Architect" src="https://img.shields.io/badge/GCP-Professional%20Cloud%20Architect-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+  <img alt="GCP DevOps Engineer" src="https://img.shields.io/badge/GCP-Professional%20Cloud%20DevOps%20Engineer-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+  <img alt="GCP Data Engineer" src="https://img.shields.io/badge/GCP-Professional%20Data%20Engineer-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />
+  <br />
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
   <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" />
@@ -41,10 +45,10 @@
 
 ```bash
 $ whoami
-priya-ranjan-sahu — Multi-Cloud DevOps & Security Engineer 🇮🇳
+priya-ranjan-sahu — Senior SRE / DevOps Lead / Cloud Architect 🇮🇳
 
-$ echo $CLOUD_PROVIDERS
-AWS   Azure   GCP
+$ echo $EXPERIENCE
+16+ years | GCP / AWS / Azure / Alibaba | 3× GCP Professional Certs
 
 $ echo $DOMAINS
 Cloud Architecture   DevOps & SRE   Cloud Security   FinOps & Cost Intelligence
@@ -71,7 +75,7 @@ $ echo $MOTTO
   <img alt="Multi-Cloud" src="https://img.shields.io/badge/Multi--Cloud-AWS%7CAzure%7CGCP-4285F4?style=flat&logo=cloudflare" />
 </p>
 
-I'm **Priya Ranjan Sahu** — a cloud engineer who designs, automates, hardens, and optimizes infrastructure across **AWS, Microsoft Azure, and Google Cloud**. I build production-grade automation that makes cloud environments *safer, cheaper, and self-operating*.
+I'm **Priya Ranjan Sahu** — a **Senior SRE / DevOps Lead / Cloud Architect** with **16+ years** building production systems at scale across **GCP, AWS, Azure, Alibaba**. **3× Google Cloud Professional Certifications** (Cloud Architect, DevOps Engineer, Data Engineer). I build production-grade automation that makes cloud environments *safer, cheaper, and self-operating*.
 
 - 🛡️ **Security-first by default** — I write read-only audit tooling and hardening playbooks aligned with the AWS Well-Architected, Azure Security Benchmark, and GCP security best practices.
 - 💰 **FinOps-minded** — I build AI-powered cost intelligence that detects anomalies, forecasts spend, and rightsizes workloads before the bill surprises you.
@@ -149,8 +153,14 @@ I'm **Priya Ranjan Sahu** — a cloud engineer who designs, automates, hardens, 
   <a href="https://www.linkedin.com/in/priyaranjan-sahu/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="https://dev.to/priyaranjansahu/">
+    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
+  </a>
+  <a href="https://priyaranjan-sahu.medium.com/">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+  </a>
   <a href="https://linwintech.blogspot.com/">
-    <img src="https://img.shields.io/badge/Blog-linwintech%20Tech-1DA1F2?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog" />
+    <img src="https://img.shields.io/badge/Blog-linwintech-1DA1F2?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog" />
   </a>
   <a href="mailto:onlysworld@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -159,6 +169,20 @@ I'm **Priya Ranjan Sahu** — a cloud engineer who designs, automates, hardens, 
     <img src="https://img.shields.io/badge/Sponsor-❤️%20GitHub%20Sponsors-ea4aaa?style=for-the-badge&logo=github&logoColor=white" alt="Sponsor" />
   </a>
 </p>
+
+---
+
+## 📦 Repository Maturity
+
+| Tier | Repos | Criteria |
+| :--- | :--- | :--- |
+| 🥇 **Enterprise** | `multi-cloud-automation-scripts`, `multi-cloud-finops` | Full CI/CD, tests, security audit, multi-cloud, FinOps, docs |
+| 🥈 **Professional** | `multi-cloud-devops-portfolio`, `aws-stepfunctions-*` | CI, docs, single-cloud depth |
+| 🥉 **Community** | `helloworlddb-docker` | Starter templates |
+
+<img alt="Enterprise" src="https://img.shields.io/badge/Enterprise-2-gold?style=flat-square" />
+<img alt="Professional" src="https://img.shields.io/badge/Professional-2-silver?style=flat-square" />
+<img alt="Community" src="https://img.shields.io/badge/Community-1-bronze?style=flat-square" />
 
 ---
 
