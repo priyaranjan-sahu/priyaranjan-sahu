@@ -216,9 +216,6 @@ I'm **Priya Ranjan Sahu** — a **Multi-Cloud Architect / DevOps Lead / SRE** wi
   <a href="https://linwintech.blogspot.com/">
     <img src="https://img.shields.io/badge/Blog-linwintech-1DA1F2?style=for-the-badge&logo=blogger&logoColor=white" alt="Blog" />
   </a>
-  <a href="mailto:onlysworld@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
   <a href="https://github.com/sponsors/priyaranjan-sahu">
     <img src="https://img.shields.io/badge/Sponsor-❤️%20GitHub%20Sponsors-ea4aaa?style=for-the-badge&logo=github&logoColor=white" alt="Sponsor" />
   </a>
