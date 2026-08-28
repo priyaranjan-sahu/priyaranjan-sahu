@@ -92,6 +92,21 @@ I'm **Priya Ranjan Sahu** — a **Multi-Cloud Architect / DevOps Lead / SRE** wi
 
 ---
 
+## 📊 Infrastructure Scale
+
+| Metric | Count | Description |
+| :--- | :--- | :--- |
+| ☁️ **GCP Projects** | 2000+ | Compute Engine, GKE, Cloud Functions, Cloud SQL |
+| 🚢 **GKE Clusters** | 2000+ | Kubernetes orchestration at scale |
+| 🏗️ **Terraform IaC** | 600+ | Multi-cloud infrastructure modules |
+| 🔵 **Azure Resources** | 100+ | VMs, AKS, Blob Storage, Cosmos DB |
+| 🔴 **OCI Compartments** | 10+ | Oracle Cloud Infrastructure |
+| 🐧 **Linux Servers** | 500+ | RHEL, CentOS, Ubuntu, Debian |
+| 🪟 **Windows Servers** | 100+ | Windows Server, Active Directory |
+| 👥 **Monthly Users** | 10M+ | Infrastructure serving at scale |
+
+---
+
 ## 🎯 What I Do
 
 | Pillar | What That Means In Practice |
