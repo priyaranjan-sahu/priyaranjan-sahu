@@ -101,8 +101,8 @@ I'm **Priya Ranjan Sahu** — a **Multi-Cloud Architect / DevOps Lead / SRE** wi
 | 🏗️ **Terraform IaC** | 600+ | Multi-cloud infrastructure modules |
 | 🔵 **Azure Resources** | 100+ | VMs, AKS, Blob Storage, Cosmos DB |
 | 🔴 **OCI Compartments** | 10+ | Oracle Cloud Infrastructure |
-| 🐧 **Linux Servers** | 500+ | RHEL, CentOS, Ubuntu, Debian |
-| 🪟 **Windows Servers** | 100+ | Windows Server, Active Directory |
+| 🐧 **Linux Servers** | 2000+ | RHEL, CentOS, Ubuntu, Debian |
+| 🪟 **Windows Servers** | 1000+ | Windows Server, Active Directory |
 | 👥 **Monthly Users** | 10M+ | Infrastructure serving at scale |
 
 ---
@@ -129,6 +129,17 @@ I'm **Priya Ranjan Sahu** — a **Multi-Cloud Architect / DevOps Lead / SRE** wi
 | 💡 **Strategic Planning** | Aligned cloud infrastructure strategy with business objectives, delivering 30% cost reduction through FinOps practices. |
 | 🤝 **Cross-functional Collaboration** | Worked closely with Engineering, Product, and Finance teams to drive cloud adoption and cost optimization. |
 | 📚 **Knowledge Sharing** | Active contributor to Dev.to, Medium, and technical blogs — sharing insights on multi-cloud architectures and FinOps. |
+
+---
+
+## 📋 Compliance & Frameworks
+
+| Category | Standards & Frameworks |
+| :--- | :--- |
+| 🔒 **Security & Compliance** | PCI-DSS · ISO 27001 · HIPAA · GDPR · SOC 2 · NIST Framework |
+| ☁️ **Cloud Well-Architected** | AWS Well-Architected · GCP Architecture Framework · Azure Well-Architected · CIS Benchmarks · STIG Compliance |
+| 🔄 **ITSM & Operations** | ITIL v4 · Agile/Scrum · DevSecOps · SRE Principles · FinOps Framework |
+| 🛡️ **Cloud Security** | Zero Trust Architecture · Cloud Security Alliance · SASE/SSE · CSPM/CWPP · OPA/Rego Policies |
 
 ---
 
