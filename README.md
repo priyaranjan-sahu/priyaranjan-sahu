@@ -137,14 +137,17 @@ I'm **Priya Ranjan Sahu** — a **Multi-Cloud Architect / DevOps Lead / SRE** wi
 | Domain | Tools & Technologies |
 | :--- | :--- |
 | **Cloud Platforms** | GCP (Compute Engine, GKE, Cloud Functions, Cloud Storage, Cloud SQL, BigQuery, IAM, Cloud Armor) · AWS (EC2, S3, Lambda, EKS, IAM, Step Functions, GuardDuty, Cost Explorer) · Azure (VMs, AKS, Azure Functions, Blob Storage, Cosmos DB, Azure AD, Key Vault, DevOps) · OCI (Compute, VCN, Object Storage, Autonomous DB, Load Balancer) · Alibaba (ECS, OSS, VPC, ACK, ApsaraDB) · Tencent (CVM, COS, VPC, TKE) · Ingram Micro Cloud · Cloudblue |
+| **On-Premises & Datacenter** | Linux (RHEL, CentOS, Ubuntu, Debian, Fedora) · Windows Server · VMware ESXi · Hyper-V · OpenVZ · Virtuozzo · cPanel/WHM · Plesk · WHMCS · Bare Metal · NFS Storage · Load Balancers · Web Cluster Management |
 | **Languages** | Python · Bash · PowerShell · KQL · HCL/Terraform · YAML · SQL · PHP · JavaScript · Lua |
 | **IaC & Config Mgmt** | Terraform · Ansible · Puppet · CloudFormation · ARM Templates |
 | **Containers & Orchestration** | Docker · Kubernetes · OpenShift · containerd · CRI-O · KEDA · ArgoCD (GitOps) |
 | **CI/CD** | GitHub Actions · Jenkins · GitLab CI · Azure DevOps · Selenium |
-| **Observability** | Prometheus · Grafana · Datadog · Splunk · ELK · Nagios · Zabbix · OpenTelemetry · Dynatrace · New Relic |
-| **Security & DevSecOps** | WAF (Cloudflare/AWS/Azure) · OWASP · Burp Suite · nMap · Wireshark · ModSecurity · CIS Benchmarks |
+| **Observability** | Prometheus · Grafana · Datadog · Splunk · ELK · Nagios · Zabbix · PRTG · OpenTelemetry · Dynatrace · New Relic |
+| **Security & DevSecOps** | WAF (Cloudflare/AWS/Azure) · OWASP · Burp Suite · nMap · Wireshark · ModSecurity · CIS Benchmarks · IPTables · FirewallD |
 | **FinOps** | FOCUS 1.0 · CloudHealth · Spot.io · Azure Cost Management · AWS Budgets · Apptio Cloudability |
-| **Databases** | PostgreSQL · MySQL · MongoDB · Redis · Elasticsearch · DynamoDB · Cosmos DB · Oracle DB · MariaDB · pgvector |
+| **Databases** | PostgreSQL · MySQL · MongoDB · Redis · Elasticsearch · DynamoDB · Cosmos DB · Oracle DB · MariaDB · MSSQL · SQLite · pgvector |
+| **Email & DNS** | Exim · Postfix · Dovecot · Microsoft Exchange · Office 365 · BIND · PowerDNS · CoreDNS |
+| **Web Servers** | Apache · Nginx · IIS · Tomcat · LiteSpeed · Litehttpd |
 | **AI/GenAI Tooling** | GitHub Copilot · Claude Code · Cursor · Gemini CLI · OpenCode · Ollama |
 
 ---
