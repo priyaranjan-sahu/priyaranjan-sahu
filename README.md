@@ -119,6 +119,15 @@ I'm **Priya Ranjan Sahu** — a **Multi-Cloud Architect / DevOps Lead / SRE** wi
 
 ---
 
+## 🌟 Featured Projects
+
+| Project | Description | Links |
+| :--- | :--- | :--- |
+| **[multi-cloud-finops](https://github.com/priyaranjan-sahu/multi-cloud-finops-enterprise)** | Enterprise multi-cloud cost optimization and anomaly detection for AWS, GCP & Azure. | [Source Code](https://github.com/priyaranjan-sahu/multi-cloud-finops-enterprise) |
+| **[Vexil Search](https://priyaranjan-sahu.github.io/vexil-search/)** | A blazing fast, privacy-first local AI search engine for your desktop. Built with **Rust & Tauri**. | [Website](https://priyaranjan-sahu.github.io/vexil-search/) · [Source](https://github.com/priyaranjan-sahu/vexil-search) |
+
+---
+
 ## 👥 Leadership & Impact
 
 | Area | What I've Done |
