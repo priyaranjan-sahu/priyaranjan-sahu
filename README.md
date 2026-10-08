@@ -56,7 +56,7 @@ $ whoami
 priya-ranjan-sahu — Multi-Cloud Architect | DevOps | SRE 🇮🇳
 
 $ echo $EXPERIENCE
-16+ years | GCP / AWS / Azure / OCI / Alibaba / Tencent / Ingram Micro / Cloudblue | 3× GCP Professional Certs
+Around 17 years | GCP / AWS / Azure / OCI / Alibaba / Tencent / Ingram Micro / Cloudblue | 3× GCP Professional Certs
 
 $ echo $DOMAINS
 Cloud Architecture   DevOps & SRE   Cloud Security   FinOps & Cost Intelligence   Team Leadership
@@ -83,7 +83,7 @@ $ echo $MOTTO
   <img alt="Multi-Cloud" src="https://img.shields.io/badge/Multi--Cloud-AWS%7CAzure%7CGCP-4285F4?style=flat&logo=cloudflare" />
 </p>
 
-I'm **Priya Ranjan Sahu** — a **Multi-Cloud Architect / DevOps Lead / SRE** with **16+ years** building production systems at scale across **GCP, AWS, Azure, OCI, Alibaba, Tencent, Ingram Micro Cloud, and Cloudblue**. **3× Google Cloud Professional Certifications** (Cloud Architect, DevOps Engineer, Data Engineer). I build production-grade automation that makes cloud environments *safer, cheaper, and self-operating*.
+I'm **Priya Ranjan Sahu** — a **Multi-Cloud Architect / DevOps Lead / SRE** with **Around 17 years** building production systems at scale across **GCP, AWS, Azure, OCI, Alibaba, Tencent, Ingram Micro Cloud, and Cloudblue**. **3× Google Cloud Professional Certifications** (Cloud Architect, DevOps Engineer, Data Engineer). I build production-grade automation that makes cloud environments *safer, cheaper, and self-operating*.
 
 - 🛡️ **Security-first by default** — I write read-only audit tooling and hardening playbooks aligned with the AWS Well-Architected, Azure Security Benchmark, and GCP security best practices.
 - 💰 **FinOps-minded** — I build AI-powered cost intelligence that detects anomalies, forecasts spend, and rightsizes workloads before the bill surprises you.
